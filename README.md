@@ -1,1 +1,1 @@
-This repository contains the Heat Wave Magnitude Index daily (HWMId) analysis for the Top 5 European and US Heat Waves in the period of 1979 to 2019.
+This repository contains the Heat Wave Magnitude Index daily (HWMId) analysis for the Top 5 European and US Heat Waves in the period of 1979 to 2019. Figures have been produced for the study published in PLOS ONE: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318166
